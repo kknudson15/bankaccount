@@ -1,5 +1,4 @@
 from bankaccount import *
-import random
 
 bank1 = BankAccount('Kyle', 1000)
 new_account_holder = False
